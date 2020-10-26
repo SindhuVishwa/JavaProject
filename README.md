@@ -8,3 +8,21 @@ https://javarevisited.blogspot.com/2014/02/10-example-of-lambda-expressions-in-j
 
 Date API:
 https://javarevisited.blogspot.com/2015/03/20-examples-of-date-and-time-api-from-Java8.html
+
+Streams:
+https://www.journaldev.com/2774/java-8-stream
+https://www.baeldung.com/java-8-streams
+https://www.tutorialspoint.com/java8/java8_streams.htm
+
+Interview questions:
+
+https://www.journaldev.com/8697/javase8-interview-questions-part1
+https://www.journaldev.com/10081/javase8-interview-questions-part2
+https://www.baeldung.com/java-8-interview-questions
+https://www.softwaretestinghelp.com/java-8-interview-questions/
+
+Java concepts:
+
+https://javarevisited.blogspot.com/2014/01/java-comparator-example-for-custom.html
+https://javarevisited.blogspot.com/2011/09/generics-java-example-tutorial.html
+https://javarevisited.blogspot.com/2012/12/inner-class-and-nested-static-class-in-java-difference.html
