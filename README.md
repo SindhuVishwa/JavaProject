@@ -16,6 +16,9 @@ https://www.journaldev.com/2774/java-8-stream
 https://www.baeldung.com/java-8-streams
 https://www.tutorialspoint.com/java8/java8_streams.htm
 
+Completable Future:
+https://www.callicoder.com/java-8-completablefuture-tutorial/
+
 Interview questions:
 
 https://www.journaldev.com/8697/javase8-interview-questions-part1
