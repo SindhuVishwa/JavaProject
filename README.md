@@ -1,5 +1,7 @@
 JAVA 8:
 
+https://mkyong.com/tutorials/java-8-tutorials/
+
 Map vs FlatMap:
 https://javarevisited.blogspot.com/2016/03/difference-between-map-and-flatmap-in-java8.html#:~:text=In%20short%2C%20here%20are%20the,returns%20a%20Stream%20of%20value.&text=map()%20is%20used%20for,for%20both%20transformation%20and%20flattening.
 
